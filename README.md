@@ -18,6 +18,4 @@ Experience the live version of my portfolio here: [Your Live Demo URL Here]
 
 ## Hire Me!
 
-I am actively seeking new opportunities where I can apply my skills and contribute to innovative projects. With a strong foundation in React.js, Tailwind CSS, and state management with Zustand, I am confident in my ability to deliver exceptional results and adapt quickly to new challenges.
-
-My passion lies in building efficient, user-friendly, and visually stunning web applications. I am a quick learner, a collaborative team player, and always eager to take on new responsibilities. If you're looking for a dedicated and skilled front-end developer to join your team, I encourage you to explore my work and connect with me. Let's build something amazing together!
+Motivated and detail-oriented Bachelor of Computer Applications graduate with a passion for web development and problem solving. Seeking an internship or entry-level position to apply my technical skills in full-stack development and to contribute to real-world projects. Committed to continuous learning and improving through hands-on experience.
