@@ -7,7 +7,19 @@ const PortfolioSection = () => {
 
   const projects = [
     {
-      id: 1,
+      id:1,
+      title: "FoodAI",
+      category: "AI Integration",
+      description:
+        "FoodAI: Uncover comprehensive nutritional facts and AI-powered insights (pros, cons, organ impact) for any food. Built with Next.js, Prisma, and Shadcn UI, featuring user authentication, search history, and email verification. Optimized for seamless deployment on Vercel.",
+      image: "/assets/images/FoodAI.png", // Use the path relative to public/
+      tags: ["Next.js 14+", "NextAuth.js", "Prisma", "PostgreSQL", "Zod", "GEMINI API", "Nutritionix API", "Nodemailer", "Shadcn UI", "AI", "Vercel"],
+      color: "accent",
+      github: "https://github.com/Ashraful-Fuqha/FoodAI",
+      liveDemo: "https://food-ai-ten.vercel.app", // Ensure this is the correct live demo URL
+    },
+    {
+      id: 2,
       title: "Social - Video Sharing Platform",
       category: "Full-Stack Development",
       description:

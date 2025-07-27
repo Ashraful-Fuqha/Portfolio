@@ -7,6 +7,7 @@ import PortfolioSection from './components/PortfolioSection';
 import MyApproachSection from './components/TestimonialsSection'; // Corrected import
 import CallToActionSection from './components/CallToActionSection';
 import Footer from './components/Footer';
+import SkillsSection from './components/SkillsSection';
 
 const PortfolioHomepage = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -141,6 +142,7 @@ const PortfolioHomepage = () => {
       <main className="pt-16">
         <HeroSection />
         <ServicesSection />
+        <SkillsSection />
         <PortfolioSection />
         <MyApproachSection/>
         {/* <TestimonialsSection /> Removed comment around TestimonialsSection if it's meant to be included */}
