@@ -25,7 +25,7 @@ const SkillsSection = () => {
     },
     {
       category: "Tools & Technologies",
-      skills: ["Git", "GitHub", "Docker","Netlify", "Vercel", "Postman", "API Integration", "AI Integration", "AppWrite", "Cloudinary"]
+      skills: ["Git", "GitHub", "Docker", "Razorpay-integration", "Netlify", "Vercel", "Postman", "API Integration", "AI Integration", "AppWrite", "Cloudinary"]
     },
   ];
 
